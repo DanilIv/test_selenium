@@ -4,7 +4,7 @@
 
 ## Использование
 1. Установите необходимые зависимости, запустив команду `pip install selenium`.
-2. Установите Chrome WebDriver. [Инструкции по установке](https://sites.google.com/a/chromium.org/chromedriver/downloads).
+2. Установите Chrome WebDriver.
 3. Замените значение переменной `proxy` на ваш прокси-сервер, если требуется.
 4. Запустите скрипт командой `python redmi.py`.
 
